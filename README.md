@@ -9,7 +9,7 @@
 
 ## 설치
 1. git clone https://github.com/shyah308/frame-tool-jm.git
-2. cd behavior_labeling_tool
+2. cd frame-tool-jm
 3. pip install -r requirements.txt
 4. cd frontend
 5. npm install
