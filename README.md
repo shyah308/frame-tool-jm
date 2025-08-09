@@ -10,9 +10,8 @@
 ## 설치
 1. git clone https://github.com/shyah308/frame-tool-jm.git
 2. cd frame-tool-jm
-3. pip install -r requirements.txt
-4. cd frontend
-5. npm install
+3. cd frontend
+4. npm install
 
 ## 실행 (다른 터미널로 실행)
 - 백엔드:
